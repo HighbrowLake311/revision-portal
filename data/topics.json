@@ -27,5 +27,95 @@
       "Access controls and encryption",
       "Regular audits and backups"
     ]
+  },
+  {
+    "title": "IT Systems Components",
+    "summary": "Key elements that make up an IT system.",
+    "keyPoints": [
+      "Hardware (CPU, RAM, storage, input/output devices)",
+      "Software (operating systems, applications, utilities)",
+      "Networks (LAN, WAN, Internet connectivity)",
+      "System documentation (manuals, policies, procedures)"
+    ]
+  },
+  {
+    "title": "Network & Communication Fundamentals",
+    "summary": "How devices connect and communicate in an IT environment.",
+    "keyPoints": [
+      "Network types (LAN, WAN, wireless)",
+      "Protocols (TCP/IP, HTTP, FTP)",
+      "Network devices (routers, switches, access points)",
+      "Security measures (firewalls, VPNs, monitoring)"
+    ]
+  },
+  {
+    "title": "Database Design & Structure",
+    "summary": "Organising data efficiently for storage and retrieval.",
+    "keyPoints": [
+      "Data models (relational, entity-relationship)",
+      "Tables, fields, and relationships",
+      "Primary/foreign keys",
+      "Normalisation and data integrity"
+    ]
+  },
+  {
+    "title": "Information System Lifecycle",
+    "summary": "Stages of developing and maintaining an IT system.",
+    "keyPoints": [
+      "Analysis (requirements gathering)",
+      "Design (system specification)",
+      "Implementation (coding, configuration)",
+      "Evaluation & maintenance (testing, updates, documentation)"
+    ]
+  },
+  {
+    "title": "Data Collection & Capture",
+    "summary": "Methods of gathering accurate data.",
+    "keyPoints": [
+      "Primary sources (surveys, experiments, logs)",
+      "Secondary sources (databases, reports)",
+      "Automation & sensors",
+      "Data validation at point of entry"
+    ]
+  },
+  {
+    "title": "Data Storage & Maintenance",
+    "summary": "Keeping data safe and organised over time.",
+    "keyPoints": [
+      "File systems and databases",
+      "Backups and redundancy",
+      "Cloud vs on-premises storage",
+      "Data retention policies"
+    ]
+  },
+  {
+    "title": "Data Analysis Techniques",
+    "summary": "Turning raw data into meaningful insights.",
+    "keyPoints": [
+      "Statistical analysis (mean, median, variance)",
+      "Visualisation (charts, dashboards, graphs)",
+      "Modelling & forecasting",
+      "Pattern detection & trend identification"
+    ]
+  },
+  {
+    "title": "Data Presentation & Interpretation",
+    "summary": "Communicating findings effectively.",
+    "keyPoints": [
+      "Reports and dashboards",
+      "Infographics and charts",
+      "Key performance indicators (KPIs)",
+      "Drawing conclusions & making recommendations"
+    ]
+  },
+  {
+    "title": "System Evaluation & Improvement",
+    "summary": "Assessing IT systems to ensure effectiveness.",
+    "keyPoints": [
+      "Functional testing and user acceptance",
+      "Performance monitoring",
+      "Feedback collection & analysis",
+      "Iterative improvements"
+    ]
   }
 ]
