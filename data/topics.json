@@ -117,5 +117,105 @@
       "Feedback collection & analysis",
       "Iterative improvements"
     ]
+  },
+  {
+    "title": "Spreadsheet Design Principles",
+    "summary": "Best practices for creating clear and effective spreadsheets.",
+    "keyPoints": [
+      "Logical layout and organisation",
+      "Consistent formatting (fonts, colours, borders)",
+      "Use of headings and labels",
+      "Separation of input, calculation, and output areas"
+    ]
+  },
+  {
+    "title": "Data Entry & Validation in Spreadsheets",
+    "summary": "Ensuring data is entered accurately and consistently.",
+    "keyPoints": [
+      "Input restrictions (drop-down lists, limits)",
+      "Validation rules for numbers, dates, and text",
+      "Error messages and alerts",
+      "Preventing duplicate or inconsistent entries"
+    ]
+  },
+  {
+    "title": "Spreadsheet Formulas & Functions",
+    "summary": "Calculations and data manipulation in spreadsheets.",
+    "keyPoints": [
+      "Basic arithmetic formulas (+, -, *, /)",
+      "Common functions (SUM, AVERAGE, COUNT, IF)",
+      "Date/time functions (TODAY, NOW, DATE)",
+      "Lookup and reference functions (VLOOKUP, HLOOKUP, INDEX, MATCH)"
+    ]
+  },
+  {
+    "title": "Spreadsheet Data Analysis Tools",
+    "summary": "Using built-in tools to analyse and summarise data.",
+    "keyPoints": [
+      "Sorting and filtering data",
+      "Conditional formatting for insights",
+      "Pivot tables for summarising large datasets",
+      "Charts and graphs for visualisation"
+    ]
+  },
+  {
+    "title": "Spreadsheet Documentation & Auditing",
+    "summary": "Keeping spreadsheets understandable and error-free.",
+    "keyPoints": [
+      "Adding comments and instructions",
+      "Version control and change tracking",
+      "Auditing formulas and tracing precedents/dependents",
+      "Testing for errors and formula correctness"
+    ]
+  },
+  {
+    "title": "Social Media Strategy Fundamentals",
+    "summary": "Planning and managing social media for a business or campaign.",
+    "keyPoints": [
+      "Identifying objectives and target audience",
+      "Selecting appropriate platforms",
+      "Content planning and scheduling",
+      "Monitoring engagement and analytics"
+    ]
+  },
+  {
+    "title": "Social Media Content Creation",
+    "summary": "Designing content that engages users effectively.",
+    "keyPoints": [
+      "Text posts, images, videos, infographics",
+      "Use of hashtags and tagging",
+      "Branding consistency",
+      "Legal and ethical considerations (copyright, privacy)"
+    ]
+  },
+  {
+    "title": "Social Media Analytics & Insights",
+    "summary": "Using data to measure performance and improve strategy.",
+    "keyPoints": [
+      "Tracking metrics (likes, shares, impressions, reach)",
+      "Analysing trends and engagement patterns",
+      "Reporting insights to stakeholders",
+      "Adjusting campaigns based on data"
+    ]
+  },
+  {
+    "title": "Social Media Security & Privacy",
+    "summary": "Protecting accounts and personal/business information online.",
+    "keyPoints": [
+      "Strong passwords and 2FA",
+      "Recognising phishing and scams",
+      "Managing privacy settings",
+      "Responsible sharing of content and data"
+    ]
+  },
+  {
+    "title": "Social Media Legal & Ethical Practices",
+    "summary": "Understanding regulations and ethics in online communications.",
+    "keyPoints": [
+      "Copyright and intellectual property",
+      "Data protection laws (GDPR)",
+      "Avoiding offensive or misleading content",
+      "Transparency in advertising and sponsorships"
+    ]
   }
 ]
