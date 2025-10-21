@@ -15,6 +15,5 @@ Hosted on GitHub Pages under:
 ## 🧩 Features
 - 📘 Searchable topic cards  
 - ⚙️ All notes stored in `data/topics.json` (easy to edit)  
-- 💻 Works offline — 100% static site  
 - 🧱 Clean responsive design  
 - 🧾 Licensed under the MIT License 
