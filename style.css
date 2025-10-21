@@ -57,3 +57,9 @@ footer {
   padding: 0.8rem;
   font-size: 0.9rem;
 }
+
+.unit {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 0.5em;
+}
