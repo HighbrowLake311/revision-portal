@@ -7,7 +7,8 @@
       "Storage & Maintenance",
       "Usage & Sharing",
       "Archival & Disposal"
-    ]
+    ],
+    "unit": "F202"
   },
   {
     "title": "Data Analytics Process",
@@ -17,7 +18,8 @@
       "Collect & clean data",
       "Analyse & model",
       "Visualise & interpret"
-    ]
+    ],
+    "unit": "F202"
   },
   {
     "title": "Data Security Principles",
@@ -26,7 +28,8 @@
       "Confidentiality, Integrity, Availability (CIA triad)",
       "Access controls and encryption",
       "Regular audits and backups"
-    ]
+    ],
+    "unit": "F200"
   },
   {
     "title": "IT Systems Components",
@@ -36,7 +39,8 @@
       "Software (operating systems, applications, utilities)",
       "Networks (LAN, WAN, Internet connectivity)",
       "System documentation (manuals, policies, procedures)"
-    ]
+    ],
+    "unit": "F200"
   },
   {
     "title": "Network & Communication Fundamentals",
@@ -46,7 +50,8 @@
       "Protocols (TCP/IP, HTTP, FTP)",
       "Network devices (routers, switches, access points)",
       "Security measures (firewalls, VPNs, monitoring)"
-    ]
+    ],
+    "unit": "F200"
   },
   {
     "title": "Database Design & Structure",
@@ -56,7 +61,8 @@
       "Tables, fields, and relationships",
       "Primary/foreign keys",
       "Normalisation and data integrity"
-    ]
+    ],
+    "unit": "F201"
   },
   {
     "title": "Information System Lifecycle",
@@ -66,7 +72,8 @@
       "Design (system specification)",
       "Implementation (coding, configuration)",
       "Evaluation & maintenance (testing, updates, documentation)"
-    ]
+    ],
+    "unit": "F201"
   },
   {
     "title": "Data Collection & Capture",
@@ -76,7 +83,8 @@
       "Secondary sources (databases, reports)",
       "Automation & sensors",
       "Data validation at point of entry"
-    ]
+    ],
+    "unit": "F202"
   },
   {
     "title": "Data Storage & Maintenance",
@@ -86,7 +94,8 @@
       "Backups and redundancy",
       "Cloud vs on-premises storage",
       "Data retention policies"
-    ]
+    ],
+    "unit": "F202"
   },
   {
     "title": "Data Analysis Techniques",
@@ -96,7 +105,8 @@
       "Visualisation (charts, dashboards, graphs)",
       "Modelling & forecasting",
       "Pattern detection & trend identification"
-    ]
+    ],
+    "unit": "F202"
   },
   {
     "title": "Data Presentation & Interpretation",
@@ -106,7 +116,8 @@
       "Infographics and charts",
       "Key performance indicators (KPIs)",
       "Drawing conclusions & making recommendations"
-    ]
+    ],
+    "unit": "F202"
   },
   {
     "title": "System Evaluation & Improvement",
@@ -116,7 +127,8 @@
       "Performance monitoring",
       "Feedback collection & analysis",
       "Iterative improvements"
-    ]
+    ],
+    "unit": "F201"
   },
   {
     "title": "Spreadsheet Design Principles",
@@ -126,7 +138,8 @@
       "Consistent formatting (fonts, colours, borders)",
       "Use of headings and labels",
       "Separation of input, calculation, and output areas"
-    ]
+    ],
+    "unit": "Spreadsheet NEA"
   },
   {
     "title": "Data Entry & Validation in Spreadsheets",
@@ -136,7 +149,8 @@
       "Validation rules for numbers, dates, and text",
       "Error messages and alerts",
       "Preventing duplicate or inconsistent entries"
-    ]
+    ],
+    "unit": "Spreadsheet NEA"
   },
   {
     "title": "Spreadsheet Formulas & Functions",
@@ -146,7 +160,8 @@
       "Common functions (SUM, AVERAGE, COUNT, IF)",
       "Date/time functions (TODAY, NOW, DATE)",
       "Lookup and reference functions (VLOOKUP, HLOOKUP, INDEX, MATCH)"
-    ]
+    ],
+    "unit": "Spreadsheet NEA"
   },
   {
     "title": "Spreadsheet Data Analysis Tools",
@@ -156,7 +171,8 @@
       "Conditional formatting for insights",
       "Pivot tables for summarising large datasets",
       "Charts and graphs for visualisation"
-    ]
+    ],
+    "unit": "Spreadsheet NEA"
   },
   {
     "title": "Spreadsheet Documentation & Auditing",
@@ -166,7 +182,8 @@
       "Version control and change tracking",
       "Auditing formulas and tracing precedents/dependents",
       "Testing for errors and formula correctness"
-    ]
+    ],
+    "unit": "Spreadsheet NEA"
   },
   {
     "title": "Social Media Strategy Fundamentals",
@@ -176,7 +193,8 @@
       "Selecting appropriate platforms",
       "Content planning and scheduling",
       "Monitoring engagement and analytics"
-    ]
+    ],
+    "unit": "Social Media NEA"
   },
   {
     "title": "Social Media Content Creation",
@@ -186,7 +204,8 @@
       "Use of hashtags and tagging",
       "Branding consistency",
       "Legal and ethical considerations (copyright, privacy)"
-    ]
+    ],
+    "unit": "Social Media NEA"
   },
   {
     "title": "Social Media Analytics & Insights",
@@ -196,7 +215,8 @@
       "Analysing trends and engagement patterns",
       "Reporting insights to stakeholders",
       "Adjusting campaigns based on data"
-    ]
+    ],
+    "unit": "Social Media NEA"
   },
   {
     "title": "Social Media Security & Privacy",
@@ -206,7 +226,8 @@
       "Recognising phishing and scams",
       "Managing privacy settings",
       "Responsible sharing of content and data"
-    ]
+    ],
+    "unit": "Social Media NEA"
   },
   {
     "title": "Social Media Legal & Ethical Practices",
@@ -216,6 +237,7 @@
       "Data protection laws (GDPR)",
       "Avoiding offensive or misleading content",
       "Transparency in advertising and sponsorships"
-    ]
+    ],
+    "unit": "Social Media NEA"
   }
 ]
