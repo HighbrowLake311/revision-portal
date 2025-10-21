@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Data Life Cycle",
+    "summary": "Stages of managing data from creation to deletion.",
+    "keyPoints": [
+      "Creation & Capture",
+      "Storage & Maintenance",
+      "Usage & Sharing",
+      "Archival & Disposal"
+    ]
+  },
+  {
+    "title": "Data Analytics Process",
+    "summary": "Steps involved in extracting insights from data.",
+    "keyPoints": [
+      "Define objectives",
+      "Collect & clean data",
+      "Analyse & model",
+      "Visualise & interpret"
+    ]
+  },
+  {
+    "title": "Data Security Principles",
+    "summary": "Ensuring data is protected from unauthorised access.",
+    "keyPoints": [
+      "Confidentiality, Integrity, Availability (CIA triad)",
+      "Access controls and encryption",
+      "Regular audits and backups"
+    ]
+  }
+]
