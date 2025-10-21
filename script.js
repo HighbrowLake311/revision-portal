@@ -14,6 +14,7 @@ function displayTopics(topics) {
     card.className = 'topic';
     card.innerHTML = `
       <h2>${topic.title}</h2>
+      <p class="unit"><strong>Unit:</strong> ${topic.unit}</p>
       <p>${topic.summary}</p>
       <ul>
         ${topic.keyPoints.map(p => `<li>${p}</li>`).join('')}
@@ -30,7 +31,8 @@ function setupSearch(topics) {
     const filtered = topics.filter(t =>
       t.title.toLowerCase().includes(term) ||
       t.summary.toLowerCase().includes(term) ||
-      t.keyPoints.some(p => p.toLowerCase().includes(term))
+      t.keyPoints.some(p => p.toLowerCase().includes(term)) ||
+      t.unit.toLowerCase().includes(term)
     );
     displayTopics(filtered);
   });
