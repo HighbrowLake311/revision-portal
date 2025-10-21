@@ -8,7 +8,7 @@ It runs entirely in the browser — no backend, no login required.
 ---
 
 ## 🌐 Live Site
-Hosted on GitHub Pages under:
+Hosted on GitHub Pages under: https://highbrowlake311.github.io/revision-portal/
 
 ---
 
