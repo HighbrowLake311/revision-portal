@@ -8,8 +8,7 @@ It runs entirely in the browser — no backend, no login required.
 ---
 
 ## 🌐 Live Site
-If hosted on GitHub Pages:
-> [https://YOUR_USERNAME.github.io/revision-portal](https://YOUR_USERNAME.github.io/revision-portal)
+Hosted on GitHub Pages under:
 
 ---
 
