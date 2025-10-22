@@ -1,17 +1,17 @@
 function downloadResource(filename) {
   alert(`Downloading ${filename}...`);
-  // In production: window.location.href = `/printables/${filename}`;
+  // In live version: window.location.href = `assets/printables/${filename}`;
 }
 
 function generateSheet() {
-  const topic = document.getElementById("topicSelect").value;
+  const unit = document.getElementById("unitSelect").value;
   const output = document.getElementById("output");
 
   const sheets = {
-    f200: "F200 Revision Sheet: Storyboards, scripts, and visualisation diagrams.",
-    f201: "F201 Revision Sheet: Design principles, file formats, and editing tools.",
-    f202: "F202 Revision Sheet: Interactivity, user flow, and testing methods."
+    f200: "F200 Printable Sheet: Data types, storage, retrieval, legal & ethical issues.",
+    f201: "F201 Printable Sheet: Big Data systems, machine learning models & data pipelines.",
+    f202: "F202 Printable Sheet: Spreadsheet modelling process, functions, testing & evaluation."
   };
 
-  output.textContent = sheets[topic] || "Select a topic.";
+  output.textContent = sheets[unit] || "Please select a unit.";
 }
