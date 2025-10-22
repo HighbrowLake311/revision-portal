@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Printable Resources | OCR Creative iMedia</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="printables.css">
+</head>
+<body>
+  <header>
+    <h1>Printable Resources</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="games.html">Games</a></li>
+        <li><a href="printables.html" class="active">Printables</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="printables-container">
+    <section class="intro">
+      <h2>Download and Print Study Materials</h2>
+      <p>Printable flashcards, checklists, and summaries for F200–F202. Perfect for offline revision.</p>
+    </section>
+
+    <section class="resource-grid">
+      <div class="resource-card">
+        <h3>📘 F200: Pre-Production Skills</h3>
+        <p>Printable flashcards covering scripts, storyboards, and client briefs.</p>
+        <button onclick="downloadResource('f200_flashcards.pdf')">Download Flashcards</button>
+        <button onclick="downloadResource('f200_checklist.pdf')">Download Checklist</button>
+      </div>
+
+      <div class="resource-card">
+        <h3>🎨 F201: Creating Digital Graphics</h3>
+        <p>Quick reference sheets and printable task summaries.</p>
+        <button onclick="downloadResource('f201_summary.pdf')">Download Summary Sheet</button>
+        <button onclick="downloadResource('f201_flashcards.pdf')">Download Flashcards</button>
+      </div>
+
+      <div class="resource-card">
+        <h3>📱 F202: Interactive Digital Media</h3>
+        <p>Printables for interface design, interactivity, and user experience.</p>
+        <button onclick="downloadResource('f202_checklist.pdf')">Download Checklist</button>
+        <button onclick="downloadResource('f202_flashcards.pdf')">Download Flashcards</button>
+      </div>
+    </section>
+
+    <section class="custom-section">
+      <h2>🖨️ Custom Revision Sheets</h2>
+      <p>Generate printable sheets based on selected topics.</p>
+      <form id="customForm">
+        <label for="topicSelect">Choose topic:</label>
+        <select id="topicSelect">
+          <option value="f200">F200: Pre-Production</option>
+          <option value="f201">F201: Digital Graphics</option>
+          <option value="f202">F202: Interactive Media</option>
+        </select>
+        <button type="button" onclick="generateSheet()">Generate</button>
+      </form>
+      <p id="output"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 OCR Creative iMedia Revision — Made by Russell Hartley</p>
+  </footer>
+
+  <script src="printables.js"></script>
+</body>
+</html>
